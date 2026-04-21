@@ -66,34 +66,3 @@ Each character is saved like this:
 Assassin|Niko|85|85|18|2|1|3|3
 Tank|Rook|130|130|14|1|0|1|2
 ```
-
-## Demo Checklist
-
-For your video/demo, show:
-
-1. Creating a character
-2. Starting a run
-3. Using a special ability
-4. Saving the roster
-5. Loading the roster
-6. Viewing stats after a run
-
-## Screenshot
-
-Add one screenshot of the running program here before submitting to your class repo.
-
-## Suggested GitHub Commit Ideas
-
-- `created abstract character class`
-- `added assassin tank and mage classes`
-- `implemented dungeon run system`
-- `added file save and load support`
-- `improved input validation and exception handling`
-- `updated readme and project structure`
-
-## Future Improvements
-
-- Add items and loot drops
-- Add more enemy types
-- Add difficulty settings
-- Add a simple GUI using SFML or Qt
